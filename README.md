@@ -51,8 +51,8 @@ This project implements an **I2C Slave module** using **Verilog HDL**, simulatin
 ###  Tools Used
 
 - **ModelSim / QuestaSim**
-- **Icarus Verilog (optional)**
-- **GTKWave (for waveform viewing)**
+- 
+-
 
 ###  Steps to Run Simulation
 
@@ -103,9 +103,7 @@ Feel free to fork this repository, enhance the I2C slave design, and submit a pu
 
 ---
 
-##  License
 
-This project is open-source under the **MIT License**.
 
 ---
 
